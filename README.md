@@ -58,6 +58,8 @@
 ### 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:graciousthindwa8@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](www.linkedin.com/in/gracious-thindwa-4555b9360))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gracious-thindwa-4555b9360)
 
 ---
+
+<p align="center"><i>⭐️ From a builder who ships — one project at a time.</i></p>
