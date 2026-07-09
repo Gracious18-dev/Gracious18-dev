@@ -13,7 +13,7 @@
 - 🌱 Currently deepening skills in **system design**, **database management**, and **AI-powered apps**
 - 💡 Passionate about efficient, innovative, and user-friendly software
 - 🤝 Open to collaborating on full-stack, mobile, and hackathon projects
-- 📫 Reach me at **graciousthindwa8@gmail.com**
+- 📫 Reach me at **graciousthindwa8@gmail.com** **+265 993 709 033, +265 880 738 547**
 
 ---
 
