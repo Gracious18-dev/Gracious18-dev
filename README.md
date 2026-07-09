@@ -46,7 +46,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gracious18-dev&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gracious18-devE&theme=radical" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gracious18-dev&theme=radical" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
