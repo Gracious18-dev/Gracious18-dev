@@ -61,5 +61,3 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 
 ---
-
-<p align="center"><i>⭐️ From a builder who ships — one project at a time.</i></p>
